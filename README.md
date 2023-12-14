@@ -6,6 +6,6 @@ Hello My name is Saket Kumar Singh, I am a **_3<sup>rd</sup> year_ IIT Patna stu
 I love `problem solving` and strive to get better at it
 
 Here are some beautiful pictures of our campus
-[/assets/download.jpeg]
+![/assets/download.jpeg]
 
-[/assets/maxresdefault.jpeg]
+![/assets/maxresdefault.jpeg]
